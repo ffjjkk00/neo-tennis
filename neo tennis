@@ -1,5 +1,3 @@
---Auto Hit (DO NOT CHANGE THE VALUES!)
-
 if not game:IsLoaded() then
 	game.Loaded:Wait()
 end
